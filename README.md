@@ -18,6 +18,7 @@
 * testing accuracy at iteration 900 : 1.0000000000
 
 <img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
+
 <img width="450" alt="pred0" src="https://user-images.githubusercontent.com/76895949/153762793-8c902418-3027-46b2-85d8-2fe4d8f08897.png"><img width="450" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762795-1aae7b66-0f87-45ca-b0ab-bf8654981dec.png">
 
 ## 04. Classification for multiple classes based on softmax and cross entropy
@@ -27,7 +28,8 @@
 * Use One-Hot Encoding.
 * testing accuracy at iteration 900 : 0.9733333333
 
-<img width="400" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="400" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png">
+<img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png">
+
 <img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
 
 ## 05. Classification for multiple classes with bias, weight-decay and stochastic gradient descent
