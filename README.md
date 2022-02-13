@@ -17,7 +17,7 @@
 * Classify multiple hand digit images of 0 and 1.
 * testing accuracy at iteration 900 : 1.0000000000
 
-<img width="400" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="400" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
+<img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
 <img width="450" alt="pred0" src="https://user-images.githubusercontent.com/76895949/153762793-8c902418-3027-46b2-85d8-2fe4d8f08897.png"><img width="450" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762795-1aae7b66-0f87-45ca-b0ab-bf8654981dec.png">
 
 ## 04. Classification for multiple classes based on softmax and cross entropy
@@ -50,5 +50,5 @@
 * Constructed a neural network using a series of convolutional layers.
 * best testing (mean) accuracy within the last 10 epochs : 97.7875000000
 
-<img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png"><img width="400" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763073-bd6ba547-bd21-4621-aea7-7f588c8be641.png">
-
+<img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
+![accuracy](https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png)
