@@ -50,13 +50,21 @@
 * Constructed a neural network using a series of convolutional layers.
 * **best testing (mean) accuracy within the last 10 epochs : 97.7875000000**
 
-<img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
 <img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
 
 ## 07. Classification for multiple classes using Pytorch library
 ## 08. Classification for multiple classes using Pytorch library
 ## 09. Classification for multiple classes using Pytorch library
-## 10. Classification for multiple classes using Pytorch library
+## 10. Image Segmentation in an unsupervised learning framework using Pytorch library
+
+* Get clear sqaure images from the original noised sqaure images.
+* Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
+* **best testing accuracy within the last 10 epochs = 97.8995329178**
+
+<img width="400" alt="스크린샷 2022-02-14 오전 2 14 18" src="https://user-images.githubusercontent.com/76895949/153766529-03915d70-50a7-413a-bbab-2ab60bb95b63.png"><img width="400" alt="스크린샷 2022-02-14 오전 2 14 32" src="https://user-images.githubusercontent.com/76895949/153766536-5552bfee-85ef-4d69-816b-35edad4942c8.png">
+
+<img width="599" alt="스크린샷 2022-02-14 오전 2 14 40" src="https://user-images.githubusercontent.com/76895949/153766548-9d701615-7061-4896-bd82-734f2b69047b.png">
+
 ## 11. Image de-blurring by a supervised learning using Pytorch library
 
 * De-blur the blurred images.
