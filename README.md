@@ -8,7 +8,7 @@
 
 * Classify two hand digit images into 0 and 1.
 <img width="500" alt="data" src="https://user-images.githubusercontent.com/76895949/153762708-363c0baa-a9c3-4a32-a95d-a98240115cb7.png">
-<img width="450" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762730-ce73390d-65b7-418b-8042-c1be425b93a2.png"><img width="450" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762736-4ebd416b-b05e-4645-9ea0-9011b0561d1c.png">
+<img width="410" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762730-ce73390d-65b7-418b-8042-c1be425b93a2.png"><img width="410" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762736-4ebd416b-b05e-4645-9ea0-9011b0561d1c.png">
 
 ### 03. Logistic regression for binary classification
 
@@ -17,8 +17,6 @@
 <img width="400" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="400" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
 
 <img width="450" alt="pred0" src="https://user-images.githubusercontent.com/76895949/153762793-8c902418-3027-46b2-85d8-2fe4d8f08897.png"><img width="450" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762795-1aae7b66-0f87-45ca-b0ab-bf8654981dec.png">
-
-
 
 * testing accuracy at iteration 900 : 1.0000000000
 
