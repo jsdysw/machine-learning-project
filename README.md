@@ -14,6 +14,7 @@
 ### 03. Logistic regression for binary classification
 
 * Classify multiple hand digit images of 0 and 1.
+
 <img width="400" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="400" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
 
 <img width="586" alt="pred0" src="https://user-images.githubusercontent.com/76895949/153762793-8c902418-3027-46b2-85d8-2fe4d8f08897.png">
