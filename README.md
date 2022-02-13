@@ -9,8 +9,11 @@
 * Classify two hand digit images into 0 and 1.
 <img src="./readme-images/02/data.png" width="500px" height="250px"/>
 <img src="./readme-images/02/pred2.png" width="350px" height="350px"/><img src="./readme-images/02/pred1.png" width="350px" height="350px"/>
-
 <img width="569" alt="data" src="https://user-images.githubusercontent.com/76895949/153762708-363c0baa-a9c3-4a32-a95d-a98240115cb7.png">
+
+<img width="590" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762730-ce73390d-65b7-418b-8042-c1be425b93a2.png">
+<img width="588" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762736-4ebd416b-b05e-4645-9ea0-9011b0561d1c.png">
+
 
 
 ### 03. Logistic regression for binary classification
