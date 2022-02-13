@@ -1,10 +1,10 @@
 # machine learning project
 
-### 01. Python tutorial and LaTex practice
+## 01. Python tutorial and LaTex practice
 
 * Learn usage of basic python syntax, numpy and matplotlib
 
-### 02. Logistic regression for binary classification
+## 02. Logistic regression for binary classification
 
 * Classify two hand digit images into 0 and 1.
 <img src="./readme-images/02/data.png" width="300px" height="150px"/>
