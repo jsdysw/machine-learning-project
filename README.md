@@ -15,7 +15,7 @@
 ## 03. Logistic regression for binary classification
 
 * Classify multiple hand digit images of 0 and 1.
-* testing accuracy at iteration 900 : 1.0000000000
+* **testing accuracy at iteration 900 : 1.0000000000**
 
 <img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153762787-913e2c46-c632-426a-94ab-9c345a247745.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153762790-66ac17b7-0361-4ffa-86e1-ed99c61bdf06.png">
 
@@ -26,7 +26,7 @@
 * Logistic regression for multi-class classification.
 * Classify multiple hand digit images of 0, 1, 2, 3 and 4.
 * Use One-Hot Encoding.
-* testing accuracy at iteration 900 : 0.9733333333
+* **testing accuracy at iteration 900 : 0.9733333333**
 
 <img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png"><img width="500" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
 
@@ -35,8 +35,8 @@
 * Logistic regression for multi-class classification.
 * Classify multiple hand digit images of 0 ~ 9.
 * Use One-Hot Encoding.
-* testing accuracy (mean) at different mini-batch, weight-decay 0
-* testing accuracy (mean) at different weight-decay, mini-batch0
+* **testing accuracy (mean) at different mini-batch, weight-decay 0**
+* **testing accuracy (mean) at different weight-decay, mini-batch0**
 
 <img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763055-fc936b82-0fde-45c4-a70c-b21a42d01424.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763057-5d083b41-0f50-4009-94a7-1fcb988500d8.png"><img width="200" alt="data2" src="https://user-images.githubusercontent.com/76895949/153763058-bb58b2e9-a5a6-4614-9377-886d4e504768.png"><img width="200" alt="data3" src="https://user-images.githubusercontent.com/76895949/153763060-fb1d236f-50d8-496e-b92a-ffb1144b36b7.png">
 
@@ -48,7 +48,7 @@
 * Multi-class classification based on Softmax and Cross-Entropy using pytorch.
 * Classify multiple hand digit images of 0 ~ 9.
 * Constructed a neural network using a series of convolutional layers.
-* best testing (mean) accuracy within the last 10 epochs : 97.7875000000
+* **best testing (mean) accuracy within the last 10 epochs : 97.7875000000**
 
 <img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
 <img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
@@ -61,7 +61,7 @@
 
 * De-blur the blurred images.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
-* print the best testing accuracy(PSNR) within the last 10 epochs = 24.1219267082
+* **best testing accuracy(PSNR) within the last 10 epochs = 24.1219267082**
 
 <img width="400" alt="before" src="https://user-images.githubusercontent.com/76895949/153766146-228d3f78-4151-421d-a557-b46f5b4906f0.png"><img width="400" alt="after" src="https://user-images.githubusercontent.com/76895949/153766150-83fbbb27-1bf3-400e-9f6b-b1105507404b.png">
 
@@ -71,7 +71,7 @@
 
 * Create square images by learning from square images.
 * Constructed neural networks of a generator and a discriminator.
-* best accuracy within the last 10 epochs = 96.0030833364
+* **best accuracy within the last 10 epochs = 96.0030833364**
 
 <img width="651" alt="스크린샷 2022-02-14 오전 2 01 21" src="https://user-images.githubusercontent.com/76895949/153765984-03a85858-b018-4c81-9fa7-4912c8448872.png">
 
