@@ -56,7 +56,7 @@
 ## 08. Classification for multiple classes using Pytorch library
 ## 09. Image Segmentation in a supervised learning framework using Pytorch library
 
-* Get the clear boundaries of cat images from the original.
+* Get the clear boundaries of the cat images from the original.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
 * **best testing accuracy within the last 10 epochs = 74.2580732318**
 
@@ -66,7 +66,7 @@
 
 ## 10. Image Segmentation in an unsupervised learning framework using Pytorch library
 
-* Get the clear boundaries of sqaure images from the original noised sqaure images.
+* Get the clear boundaries of the sqaure images from the original noised sqaure images.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
 * **best testing accuracy within the last 10 epochs = 97.8995329178**
 
