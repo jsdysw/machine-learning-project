@@ -28,9 +28,7 @@
 * Use One-Hot Encoding.
 * testing accuracy at iteration 900 : 0.9733333333
 
-<img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png">
-
-<img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
+<img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png"><img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
 
 ## 05. Classification for multiple classes with bias, weight-decay and stochastic gradient descent
 
@@ -53,4 +51,4 @@
 * best testing (mean) accuracy within the last 10 epochs : 97.7875000000
 
 <img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
-![accuracy](https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png)
+<img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
