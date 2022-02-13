@@ -53,7 +53,17 @@
 <img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
 
 ## 07. Classification for multiple classes using Pytorch library
-## 08. Classification for multiple classes using Pytorch library
+
+## 08. Image Denoising in a unsuperivsed learning framework using Pytorch library
+
+* Denoise the noised images.
+* Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
+* **best testing PSNR (mean) within the last 10 epochs = 25.4595453543**
+
+<img width="400" alt="스크린샷 2022-02-14 오전 2 26 40" src="https://user-images.githubusercontent.com/76895949/153766917-013ccf20-42bf-49d9-b63e-1c1ce1a68453.png"><img width="400" alt="스크린샷 2022-02-14 오전 2 26 34" src="https://user-images.githubusercontent.com/76895949/153766927-800a20a8-5072-4833-a7b5-b8bf9be8c6c0.png">
+
+<img width="590" alt="스크린샷 2022-02-14 오전 2 25 56" src="https://user-images.githubusercontent.com/76895949/153766870-4f9ee508-ffc7-4a6d-992d-7d8043038c62.png">
+
 ## 09. Image Segmentation in a supervised learning framework using Pytorch library
 
 * Get the clear boundaries of the cat images from the original.
@@ -78,7 +88,7 @@
 
 * De-blur the blurred images.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
-* **best testing accuracy(PSNR) within the last 10 epochs = 24.1219267082**
+* **best testing PSNR (mean) within the last 10 epochs = 24.1219267082**
 
 <img width="400" alt="before" src="https://user-images.githubusercontent.com/76895949/153766146-228d3f78-4151-421d-a557-b46f5b4906f0.png"><img width="400" alt="after" src="https://user-images.githubusercontent.com/76895949/153766150-83fbbb27-1bf3-400e-9f6b-b1105507404b.png">
 
@@ -91,4 +101,3 @@
 * **best accuracy within the last 10 epochs = 96.0030833364**
 
 <img width="651" alt="스크린샷 2022-02-14 오전 2 01 21" src="https://user-images.githubusercontent.com/76895949/153765984-03a85858-b018-4c81-9fa7-4912c8448872.png">
-
