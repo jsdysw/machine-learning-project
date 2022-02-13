@@ -66,19 +66,3 @@ where we have:
 
 - use $`0.01`$ for the learning rate $`\eta`$
 - use $`1000`$ for the number of gradient descent iterations
-
-## 2. Submission
-
-### (1) Python code
-
-- use python3 programming to compelete the notebook [assignment_02.ipynb](https://gitlab.com/cau-class/neural-network/2021-2/assignment/-/blob/main/02/assignment_02.ipynb)
-- submit the completed notebok `assignment_02.ipynb`
-
-### (2) Python code in PDF format
-
-- export the completed notebook `assignment_02.ipynb` to PDF file and submit the PDF file
-
-### (3) GitHub history
-
-- make `git commit` with given message at specified steps in the notebook
-- export the GitHub history page to PDF file and submit the PDF file
