@@ -59,6 +59,7 @@
 ## 10. Classification for multiple classes using Pytorch library
 ## 11. Image de-blurring by a supervised learning using Pytorch library
 
+* De-blur the blurred images.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
 * print the best testing accuracy(PSNR) within the last 10 epochs = 24.1219267082
 
@@ -68,6 +69,7 @@
 
 ## 12. Image Generation via Generative Adversarial Networks
 
+* Create square images by learning from square images.
 * Constructed neural networks of a generator and a discriminator.
 * best accuracy within the last 10 epochs = 96.0030833364
 
