@@ -52,3 +52,24 @@
 
 <img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
 <img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
+
+## 07. Classification for multiple classes using Pytorch library
+## 08. Classification for multiple classes using Pytorch library
+## 09. Classification for multiple classes using Pytorch library
+## 10. Classification for multiple classes using Pytorch library
+## 11. Image de-blurring by a supervised learning using Pytorch library
+
+* Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
+* print the best testing accuracy(PSNR) within the last 10 epochs = 24.1219267082
+
+<img width="400" alt="before" src="https://user-images.githubusercontent.com/76895949/153766146-228d3f78-4151-421d-a557-b46f5b4906f0.png"><img width="400" alt="after" src="https://user-images.githubusercontent.com/76895949/153766150-83fbbb27-1bf3-400e-9f6b-b1105507404b.png">
+
+<img width="584" alt="스크린샷 2022-02-14 오전 2 07 05" src="https://user-images.githubusercontent.com/76895949/153766168-16faa7f1-e805-4883-8f30-238c5c68a3da.png">
+
+## 12. Image Generation via Generative Adversarial Networks
+
+* Constructed neural networks of a generator and a discriminator.
+* best accuracy within the last 10 epochs = 96.0030833364
+
+<img width="651" alt="스크린샷 2022-02-14 오전 2 01 21" src="https://user-images.githubusercontent.com/76895949/153765984-03a85858-b018-4c81-9fa7-4912c8448872.png">
+
