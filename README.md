@@ -7,6 +7,10 @@
 ### 02. Logistic regression for binary classification
 
 * Classify two hand digit images into 0 and 1.
+<img src="./readme_images/02/data.png" width="300px" height="150px"/>
+<img src="./readme_images/02/pred2.png" width="250px" height="250px"/><img src="./readme_images/02/pred1.png" width="250px" height="250px"/>
+
+
 
 ### 03. Logistic regression for binary classification
 
