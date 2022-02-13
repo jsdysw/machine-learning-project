@@ -52,9 +52,18 @@
 
 <img width="450" alt="model" src="https://user-images.githubusercontent.com/76895949/153765568-1014851f-25f1-40ae-bf2b-3d3ecb016cc9.png">
 
-## 07. Classification for multiple classes using Pytorch library
+## 07. Image Denoising in a superivsed learning framework using Pytorch library
 
-## 08. Image Denoising in a unsuperivsed learning framework using Pytorch library
+* Denoise the noised images.
+* Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
+* **best testing PSNR (mean) within the last 10 epochs = 25.1513428898**
+
+<img width="400" alt="스크린샷 2022-02-14 오전 2 30 16" src="https://user-images.githubusercontent.com/76895949/153767050-8f2d08e7-d56b-47d5-9983-0947fe5142cf.png">
+<img width="400" alt="스크린샷 2022-02-14 오전 2 30 22" src="https://user-images.githubusercontent.com/76895949/153767058-928daec9-fb79-4f93-a896-6ed6bb29c05b.png">
+
+<img width="583" alt="스크린샷 2022-02-14 오전 2 30 54" src="https://user-images.githubusercontent.com/76895949/153767082-e6709ad5-1776-4ee1-b0c9-4943c3b2a981.png">
+
+## 08. Image Denoising in an unsuperivsed learning framework using Pytorch library
 
 * Denoise the noised images.
 * Constructed a neural network in the form of auto-encoder that consists of encoder and decoder.
