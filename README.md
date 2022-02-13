@@ -50,6 +50,5 @@
 * Use multiple layers for neural network.
 * best testing (mean) accuracy within the last 10 epochs : 97.7875000000
 
-<img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png">
-<img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763073-bd6ba547-bd21-4621-aea7-7f588c8be641.png">
+<img width="596" alt="model" src="https://user-images.githubusercontent.com/76895949/153763075-c4db3193-fba6-42ca-a4db-ca964b855259.png"><img width="400" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763073-bd6ba547-bd21-4621-aea7-7f588c8be641.png">
 
