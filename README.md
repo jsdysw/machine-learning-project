@@ -10,6 +10,7 @@
 <img src="./readme-images/02/data.png" width="500px" height="250px"/>
 <img src="./readme-images/02/pred2.png" width="350px" height="350px"/><img src="./readme-images/02/pred1.png" width="350px" height="350px"/>
 
+<img width="569" alt="data" src="https://user-images.githubusercontent.com/76895949/153762708-363c0baa-a9c3-4a32-a95d-a98240115cb7.png">
 
 
 ### 03. Logistic regression for binary classification
