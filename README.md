@@ -38,12 +38,10 @@
 * testing accuracy (mean) at different mini-batch, weight-decay 0
 * testing accuracy (mean) at different weight-decay, mini-batch0
 
-![accuracy-minibatch](https://user-images.githubusercontent.com/76895949/153763050-3239f975-1dec-4a7a-9618-acdde1fd49c0.png)
-![accuracy-weightdecay](https://user-images.githubusercontent.com/76895949/153763052-a85b2e46-09a6-4c85-93aa-60655d94a661.png)
-![data0](https://user-images.githubusercontent.com/76895949/153763055-fc936b82-0fde-45c4-a70c-b21a42d01424.png)
-![data1](https://user-images.githubusercontent.com/76895949/153763057-5d083b41-0f50-4009-94a7-1fcb988500d8.png)
-![data2](https://user-images.githubusercontent.com/76895949/153763058-bb58b2e9-a5a6-4614-9377-886d4e504768.png)
-![data3](https://user-images.githubusercontent.com/76895949/153763060-fb1d236f-50d8-496e-b92a-ffb1144b36b7.png)
+<img width="200" alt="data0" src="https://user-images.githubusercontent.com/76895949/153763055-fc936b82-0fde-45c4-a70c-b21a42d01424.png"><img width="200" alt="data1" src="https://user-images.githubusercontent.com/76895949/153763057-5d083b41-0f50-4009-94a7-1fcb988500d8.png"><img width="200" alt="data2" src="https://user-images.githubusercontent.com/76895949/153763058-bb58b2e9-a5a6-4614-9377-886d4e504768.png"><img width="200" alt="data3" src="https://user-images.githubusercontent.com/76895949/153763060-fb1d236f-50d8-496e-b92a-ffb1144b36b7.png">
+
+<img width="596" alt="accuracy-minibatch" src="https://user-images.githubusercontent.com/76895949/153763050-3239f975-1dec-4a7a-9618-acdde1fd49c0.png"><img width="596" alt="accuracy-weightdecay" src="https://user-images.githubusercontent.com/76895949/153763052-a85b2e46-09a6-4c85-93aa-60655d94a661.png">
+
 
 ## 06. Classification for multiple classes using Pytorch library
 
