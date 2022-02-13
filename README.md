@@ -9,7 +9,8 @@
 * Classify two hand digit images into 0 and 1.
 
 <img width="500" alt="data" src="https://user-images.githubusercontent.com/76895949/153762708-363c0baa-a9c3-4a32-a95d-a98240115cb7.png">
-<img width="380" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762730-ce73390d-65b7-418b-8042-c1be425b93a2.png"><img width="380" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762736-4ebd416b-b05e-4645-9ea0-9011b0561d1c.png">
+<img width="400" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762967-2e1d4de5-be63-430d-86b4-895b470501ca.png"><img width="400" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762964-ebc573b4-e609-421c-8b4e-e286b5b2d299.png">
+
 
 ### 03. Logistic regression for binary classification
 
