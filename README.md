@@ -7,7 +7,6 @@
 ## 02. Logistic regression for binary classification
 
 * Classify two hand digit images into 0 and 1.
-
 <img width="500" alt="data" src="https://user-images.githubusercontent.com/76895949/153762708-363c0baa-a9c3-4a32-a95d-a98240115cb7.png">
 <img width="400" alt="pred1" src="https://user-images.githubusercontent.com/76895949/153762985-c896f02c-604b-4ce3-94d9-a84afec1b674.png"><img width="400" alt="pred2" src="https://user-images.githubusercontent.com/76895949/153762989-56219c75-d9d8-4e04-904c-058e3db64503.png">
 
@@ -27,10 +26,9 @@
 * Classify multiple hand digit images of 0, 1, 2, 3 and 4.
 * Use One-Hot Encoding.
 
-<img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
-![data0](https://user-images.githubusercontent.com/76895949/153763038-a35d4e63-1f7a-4cb3-a2a0-652f5ac7bd31.png)
-![data1](https://user-images.githubusercontent.com/76895949/153763039-4adea02c-42e8-4edb-8fb9-07f5bc4100bf.png)
+<img width="400" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763151-8a7ad5da-c5eb-4319-9804-6c846d6ea9e4.png"><img width="400" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763160-b3a7394d-cbe3-4feb-b9f7-27277805bba6.png">
 
+<img width="596" alt="accuracy" src="https://user-images.githubusercontent.com/76895949/153763034-c4863329-62ed-4b6d-a909-39a4a1b6f740.png">
 
 
 testing accuracy at iteration 900 : 0.9733333333
